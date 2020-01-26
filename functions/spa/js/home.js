@@ -5,14 +5,14 @@ function home(){
             <p class="lead">We are the leading company in the production of TBA, with production locations located in the great state of TBD.</p>
             <hr class="my-4">
             <p>Click below to find out more details about our company that have yet to be written!</p>
-            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more...another time!</a>
+            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>   <span class="badge badge-dark">Under Construction</span>
         </div>
         
         <p>
             <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
                 Mission Statment
             </a>
-            <span class="badge badge-secondary">New</span>
+            <span class="badge badge-success">New</span>
 
         </p>
         <div class="collapse" id="collapseExample">
